@@ -2,7 +2,6 @@ In the Aircraft folder you'll find a few ready-made Aircraft prefabs, which are 
 
 The Jet Plane and the Propeller Plane prefabs share most of the same scripts (and some of the same 3D artwork), but their main difference is in their power and aerodynamic handling settings.
 
-The scripts included have been designed to be modular in nature, so that the extra features of a particular aircraft can be set up (such as propellers, flaps, landing gear), however it's possible to get any GameObject flying by simply adding the AeroplaneController script and either the "UserControl" or "AiControl" scripts. (If you add the AiControl script, you'll need to assign it a target).
 
 To set up your own aircraft from scratch, use the following steps:
 
